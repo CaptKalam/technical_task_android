@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SliideTestApp</string>
+    <string name="add_user_text">Add user</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="user_name_label">User Name:</string>
+    <string name="email_label">E-mail:</string>
+    <string name="remove_user_title">Remove user</string>
+    <string name="remove_user_confirmation_question">Are you sure you want to remove this user?</string>
+    <string name="remove_text">Remove</string>
+    <string name="toast_error">Action couldn\'t be performed: %1$s</string>
+</resources>
